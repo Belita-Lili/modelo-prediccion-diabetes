@@ -1,5 +1,6 @@
 # modelo-prediccion-diabetes
 # 🧬 Análisis de Defunciones por Diabetes Mellitus
+![image](https://github.com/user-attachments/assets/87d4fe82-6aec-4996-90d9-3588096d7958)
 
 Este proyecto corresponde al análisis de datos realizado como parte del diplomado de análisis de datos de ROMAC. Se enfoca en estudiar las defunciones por **diabetes mellitus** en México, identificando patrones, diferencias entre géneros, correlaciones entre variables sociodemográficas y comportamientos mensuales o anuales.
 
