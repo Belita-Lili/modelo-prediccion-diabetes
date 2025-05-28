@@ -47,6 +47,7 @@ Se aplicó un modelo de regresión logística para predecir la probabilidad de q
 Se evaluó el modelo con la métrica ROC AUC.
 
 ## 🧪 Resultados Destacados
+![image](https://github.com/user-attachments/assets/cb8f28ce-ee88-4854-857a-05f195af114a)
 
 - La edad promedio de defunción fue entre los 60 y 80 años.
 - Hay ligeras diferencias de edad y frecuencia entre hombres y mujeres.
